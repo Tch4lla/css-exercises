@@ -1,0 +1,19 @@
+.odd {
+    background-color: lightpink;
+    font-family: verdana, "dejavu sans", sans-serif ;
+}
+
+#numbahTwo {
+    color: blue;
+    font-size: 36px;
+}
+
+.fontSize {
+    font-size: 24px;
+}
+
+#numbahFoh {
+    font-weight: bold;
+    background-color: lightgreen;
+    
+}
